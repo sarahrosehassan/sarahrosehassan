@@ -41,12 +41,4 @@ I run fun programming lessons for beginners (like “Do You Know Your Tutor?” 
 
 ---
 
-## 📫 Get in Touch
-
-- Email: [contact@sarahrosehassan.com](mailto:contact@sarahrosehassan.com)
-- LinkedIn: [linkedin.com/in/sarahrosehassan](https://linkedin.com/in/sarahrosehassan)
-- Website: [sarahrosehassan.com](https://sarahrosehassan.com)
-
----
-
 ![Sarah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahrosehassan&show_icons=true&theme=default)
