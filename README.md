@@ -5,9 +5,6 @@ I'm a 4th year Computer Science student at Toronto Metropolitan University with 
 ---
 
 ## 💡 Current Focus
-
-- 🐑 Building a **Sheep Grazing Tracker** app with the [Open-Meteo API](https://open-meteo.com/)
-- 🛠 Learning **React** and **JavaScript** through hands-on projects
 - 🔐 Studying **algorithms** and mastering the coding interview
 
 ---
