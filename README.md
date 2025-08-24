@@ -14,14 +14,20 @@ I'm a 4th year Computer Science student at Toronto Metropolitan University with 
 
 ## 🧠 What I Know
 
-**Languages**  
-`Python` `PHP` `JavaScript` `HTML/CSS` `C` `Bash` `SQL`
+### 💻 Programming Languages
+- Python, JavaScript, PHP, Java, C/C++, C#, Bash/Shell Scripting, Perl, Rust, HTML/CSS
 
-**Tools & Frameworks**  
-`Git` `Linux` `Bootstrap` `MySQL` `MAMP` `VS Code` `FileZilla` `Notion`
+### 🗄️ Databases & Authentication
+- Supabase, MySQL, PostgreSQL, MongoDB
 
-**Currently Learning**  
-`React` `Supabase` `Node.js` `Docker` `Test Design`
+### 🖼️ Frameworks & Libraries
+- Flask, AngularJS, React.js, Node.js, Next.js, Bootstrap
+
+### ⚒️ Tools & Platforms
+- Git, Linux, Postman, REST APIs, Docker, XAMPP, Visual Studio Code, FileZilla, Notion
+
+### 🎨 Design & Miscellaneous
+- Figma, Git, VIM, API Design, Blockchain, Technical Writing, Public Speaking
 
 ---
 
