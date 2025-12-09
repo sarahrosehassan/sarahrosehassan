@@ -46,11 +46,12 @@ I run fun programming lessons for beginners (like “Do You Know Your Tutor?” 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- Main Stats Card, pastel pink theme -->
+<img src="https://github-stats-alpha.vercel.app/api?username=sarahrosehassan&theme=pink" height="150" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarahrosehassan&show_icons=true&theme=transparent&hide_border=true" height="170">
+<!-- Profile Summary Card, pastel pink theme -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarahrosehassan&theme=pink" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarahrosehassan&layout=compact&theme=transparent&hide_border=true" height="170">
-
-</div>
+<!-- Top Languages Card, pastel pink theme -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarahrosehassan&theme=pink" />
 
