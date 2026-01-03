@@ -6,12 +6,11 @@ I'm a 4th year Computer Science student at Toronto Metropolitan University with 
 
 ## 📫 Let's Connect!
 
-I am actively seeking **Summer 2026 SWE Internship** opportunities. 
-Whether you have a question about my projects or just want to say hi, feel free to reach out!
+I am actively seeking **Summer 2026 SWE Internship** opportunities.
 
-* **Email:** `sarah [at] sarahrosehassan [dot] com`
-* **LinkedIn:** [linkedin.com/in/sarahrosehassan](https://linkedin.com/in/sarahrosehassan)
-* **Portfolio:** [sarahrosehassan.com](https://sarahrosehassan.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarah@sarahrosehassan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarahrosehassan)
+[![Website](https://img.shields.io/badge/Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarahrosehassan.com)
 
 ---
 
