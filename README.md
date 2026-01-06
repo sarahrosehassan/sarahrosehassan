@@ -41,7 +41,7 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 ## 🚀 Projects I'm Proud Of
 
 - 🔄 **Weather-Based Sheep Tracker** – API-powered app for logging grazing activities
-- 💻 **Custom Portfolio Website** – Fully hand-coded using HTML, CSS, and PHP ([sarahrosehassan.com](https://sarahrosehassan.com))
+- 💻 **Custom Portfolio Website** – Fully hand-coded using HTML, CSS, and PHP
 - 🎓 **GradTrack Use Case System** – A project built to streamline university grad program submissions
 
 *(More projects in progress — stay tuned!)*
