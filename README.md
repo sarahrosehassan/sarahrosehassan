@@ -46,11 +46,6 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 
 *(More projects in progress — stay tuned!)*
 
----
-
-## 🎥 I Also Teach Code
-
-I run fun programming lessons for beginners (like “Do You Know Your Tutor?” quizzes and hands-on challenges). I believe learning should be **interactive and visual**.
 
 ---
 
