@@ -44,9 +44,6 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 - 💻 **Custom Portfolio Website** – Fully hand-coded using HTML, CSS, and PHP
 - 🎓 **GradTrack Use Case System** – A project built to streamline university grad program submissions
 
-*(More projects in progress — stay tuned!)*
-
-
 ---
 
 ## 📊 GitHub Stats
