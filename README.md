@@ -28,7 +28,7 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 - Supabase, MySQL, PostgreSQL, MongoDB
 
 ### 🖼️ Frameworks & Libraries
-- Flask, AngularJS, React.js, Node.js, Next.js, Bootstrap, FastAPI
+- Flask, AngularJS, React.js, Node.js, Next.js, Bootstrap, FastAPI, Pandas
 
 ### ⚒️ Tools & Platforms
 - Git, Linux, Postman, REST APIs, Docker, XAMPP, Visual Studio Code, FileZilla, Notion, WordPress
