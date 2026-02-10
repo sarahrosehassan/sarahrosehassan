@@ -30,11 +30,11 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 ### 🖼️ Frameworks & Libraries
 - Flask, AngularJS, React.js, Node.js, Next.js, Bootstrap, FastAPI, Pandas
 
-### ⚒️ Design & IT Architecture
-- Figma, Git, VIM, Docker, Postman, Notion, API Design (REST), MVC, Blockchain, WordPress, Linux
+### ⚒️ Systems Architecture & Design
+- API Design (REST), Docker, Linux, MVC, Blockchain, Git, WordPress, Figma
 
-### 📝 IDEs
-- VS Code, Zed, Sublime Text
+### 📝 IDEs & Editors
+- VS Code, VIM, Zed, Sublime Text
   
 ## 🚀 Projects I'm Proud Of
 
