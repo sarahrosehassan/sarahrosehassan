@@ -34,7 +34,7 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 - Git, Linux, Postman, REST APIs, Docker, XAMPP, Visual Studio Code, FileZilla, Notion, WordPress
 
 ### 🎨 Design & Miscellaneous
-- Figma, Git, VIM, API Design, Blockchain, Technical Writing, Public Speaking, MVC Architecture
+- Figma, Git, VIM, API Design, Blockchain, Technical Writing, Public Speaking, MVC Architecture, Zed
 ---
 
 ## 🚀 Projects I'm Proud Of
