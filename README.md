@@ -22,13 +22,13 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 ## 🧠 What I Know
 
 ### 💻 Programming Languages
-- Python, JavaScript, PHP, Java, C/C++, C#, Bash/Shell Scripting, Perl, Rust, HTML/CSS, SmallTalk
+- Python, JavaScript, PHP, Java, C/C++, C#, Bash/Shell Scripting, Perl, Rust, HTML/CSS, Smalltalk
 
 ### 🗄️ Databases & Authentication
 - Supabase, MySQL, PostgreSQL, MongoDB
 
 ### 🖼️ Frameworks & Libraries
-- Flask, AngularJS, React.js, Node.js, Next.js, Bootstrap, FastAPI, Pandas
+- Flask, FastAPI, Pandas, AngularJS, React.js, Node.js, Next.js, Bootstrap
 
 ### ⚒️ Systems Architecture & Design
 - API Design (REST), Docker, Linux, MVC, Blockchain, Git, WordPress, Figma
