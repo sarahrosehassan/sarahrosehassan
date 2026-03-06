@@ -34,7 +34,7 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 - API Design (REST), Docker, Linux, MVC, Blockchain, Git, WordPress, Figma
 
 ### 📝 IDEs & Text Editors
-- VS Code, VIM, Zed, Sublime Text, Notion
+- VS Code, VIM, Zed, Notion
   
 ## 🚀 Projects I'm Proud Of
 
