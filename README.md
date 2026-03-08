@@ -16,7 +16,7 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 
 ## 💡 Current Focus
 - 🔐 Studying **algorithms** and mastering the coding interview
-- 🔐 Learning Smalltalk programming and writing an undergraduate thesis research paper
+- 📝 Learning Smalltalk programming and writing an undergraduate thesis research paper
 ---
 
 ## 🧠 What I Know
