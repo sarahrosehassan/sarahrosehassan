@@ -35,7 +35,13 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 
 ### 📝 IDEs & Text Editors
 - VS Code, VIM, Zed, Notion
-  
+
+### 📝 AI Tools
+GitHub Copilot and Claude
+
+### ☁️ Cloud Technologies
+AWS (EC2, S3 RDS, VPC)
+
 ## 🚀 Projects I'm Proud Of
 
 - 🔄 **Weather-Based Sheep Tracker** – API-powered app for logging grazing activities
