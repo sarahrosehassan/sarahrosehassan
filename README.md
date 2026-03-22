@@ -37,7 +37,7 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 - VS Code, VIM, Zed, Notion
 
 ### 📝 AI Tools
-GitHub Copilot and Claude
+Claude for writing Gemini for images
 
 ### ☁️ Cloud Technologies
 AWS (EC2, S3 RDS, VPC)
