@@ -37,7 +37,7 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 - VS Code, VIM, Zed, Notion, Obsidian, Claude Code, Gemini Nano Banana for images
 
 ### ☁️ Cloud Technologies
-AWS (EC2, S3 RDS, VPC)
+- AWS (EC2, S3 RDS, VPC)
 
 ## 🚀 Projects I'm Proud Of
 
