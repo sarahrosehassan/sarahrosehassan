@@ -15,8 +15,8 @@ I am actively seeking **Summer 2026 SWE Internship** opportunities.
 ---
 
 ## 💡 Current Focus
-- 🔐 Studying **algorithms** and mastering the coding interview in Python
-- 📝 Learning Smalltalk and Zig programming for the Zag-Smalltalk project and writing an undergraduate thesis research paper
+- 🔐 Mastering the coding interview in Python
+- 📝 Writing an undergraduate thesis research paper on the Zag-Smalltalk project
 ---
 
 ## 🧠 What I Know
