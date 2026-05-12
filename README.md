@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋
 
-I'm a 4th year Computer Science student at Toronto Metropolitan University with a passion for building elegant, functional, and user-focused software. Whether it’s weather-based sheep tracking, personal websites from scratch, or teaching others how to code, my goal is always to create projects that **solve real-world problems** and help me grow as a developer.
+I'm a 4th year Computer Science student at Toronto Metropolitan University with a passion for building elegant, functional, and user-focused software. Whether it’s weather-based sheep tracking, personal websites from scratch, or teaching others how to code, my goal is always to create projects that solve real-world problems and help me grow as a developer.
 
 ---
 
