@@ -34,7 +34,7 @@ I am actively seeking **Summer 2027 SWE Internship** opportunities.
 - API Design (REST), Docker, Linux, MVC, Blockchain, Git, WordPress, Figma
 
 ### 📝 IDEs, Text Editors and AI Tools
-- VS Code, VIM, Zed, Obsidian, Claude Code, Gemini Nano Banana for images
+- VS Code, VIM, Zed, Obsidian, Claude Code
 
 ### ☁️ Cloud Technologies
 - AWS (EC2, S3 RDS, VPC)
