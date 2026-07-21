@@ -16,7 +16,7 @@ I am actively seeking **Summer 2027 SWE Internship** opportunities.
 
 ## 💡 Current Focus
 - 🔐 Mastering the coding interview in Python see https://github.com/sarahrosehassan/neetcode-submissions 
-- 📝 Writing an undergraduate thesis research paper on the Zag-Smalltalk project see https://github.com/sarahrosehassan/Zag-Smalltalk
+- 📝 Writing an thesis research paper on the Zag-Smalltalk project see https://github.com/sarahrosehassan/Zag-Smalltalk
 ---
 
 ## 🧠 What I Know
