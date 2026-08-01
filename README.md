@@ -22,7 +22,7 @@ I am actively seeking **Summer 2027 SWE Internship** opportunities.
 ## 🧠 What I Know
 
 ### 💻 Programming Languages
-- Python, JavaScript, PHP, Java, C/C++, C#, Shell, Perl, Rust, HTML/CSS, Smalltalk
+- Python, JavaScript, PHP, Java, C/C++, C#, Zig, Shell, Perl, Rust, HTML/CSS, Smalltalk
 
 ### 🗄️ Databases & Authentication
 - Supabase, MySQL, PostgreSQL, MongoDB
